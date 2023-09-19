@@ -1,0 +1,1 @@
+var host='http://dkriukcitaman.rf.gd:-1';
